@@ -1,0 +1,31 @@
+.container{
+  width:300px;
+  margin: auto;
+  background: #252525;
+  color:#fff;
+  padding:30px;
+}
+.t-c{
+  text-align:center;
+}
+
+.star-div{
+  display:flex;
+  justify-content:center;
+  padding:10px;
+}
+#s-1:hover{
+  cursor:pointer;
+}
+#s-2:hover{
+  cursor:pointer;
+}
+#s-3:hover{
+  cursor:pointer;
+}
+#s-4:hover{
+  cursor:pointer;
+}
+#s-5:hover{
+  cursor:pointer;
+}
